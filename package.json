@@ -1,0 +1,23 @@
+{
+  "name": "fdx-core-transactions-mapper",
+  "version": "1.0.0",
+  "description": "Mock FDX Core /accounts/{accountId}/transactions API that maps offset/limit to pageNum/pageSize backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "FDX",
+    "pagination",
+    "mock",
+    "api",
+    "express"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
