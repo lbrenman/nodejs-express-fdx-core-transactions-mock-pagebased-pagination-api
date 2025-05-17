@@ -1,6 +1,6 @@
-# FDX Core Transactions API For Offset to Token Pagination Mapping Testing
+# FDX Core Transactions API For Offset to Page based Pagination Mapping Testing
 
-Leverages the [Mock API For Token Pagination Testing](https://github.com/lbrenman/nodejs-express-mock-token-pagination-api/blob/main/README.md) as the token pagination API.
+Leverages the [Mock API For Page Based Pagination Testing](https://github.com/lbrenman/nodejs-express-mock-pagenum-pagesize-pagination-api) as the page based pagination API.
 
 ## To Run
 
